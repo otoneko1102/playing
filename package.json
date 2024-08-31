@@ -1,0 +1,31 @@
+{
+  "name": "playing",
+  "version": "0.0.0",
+  "description": "Playing cards.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otoneko1102/playing.git"
+  },
+  "keywords": [
+    "playing-cards",
+    "play",
+    "playing",
+    "card",
+    "cards",
+    "game",
+    "games",
+    "deck",
+    "bj",
+    "blackjack"
+  ],
+  "author": "otoneko.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otoneko1102/playing/issues"
+  },
+  "homepage": "https://github.com/otoneko1102/playing#readme"
+}
